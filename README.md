@@ -1,6 +1,6 @@
 # Customer-churn-prediction
 
-This repository contains code for performing Binary CLassification on the Customer Churn Dataset taken from Kaggle. Classification Models used 
+This repository contains code for performing Binary CLassification on the [Customer Churn Dataset](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset) taken from Kaggle. Classification Models used 
 - Logistic Regression
 - Decision Tree
 - Best Model from H20 AutoML (Gradient Boosting Machine in this case)
