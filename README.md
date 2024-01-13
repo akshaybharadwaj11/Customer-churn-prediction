@@ -26,8 +26,8 @@ This dataset has 10000 records and 12 columns(11 features and a target variable(
 
 ### Packages to be installed
 
-! pip install -q kaggle
-! pip install h2o
-! pip install shap
+`! pip install -q kaggle`
+`! pip install h2o`
+`! pip install shap`
 
 **Note** : This Notebook can run on Google Colab. To import the kaggle dataset, download the API key from your kaggle account and name it as "kaggle.json". Upload the kaggle.json while running the "upload.files" cell in the notebook
